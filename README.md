@@ -30,7 +30,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/08fe7bc0-00b4-45b6-a60b-b9dae65784af" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/08fe7bc0-00b4-45b6-a60b-b9dae65784af" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/6c0f940e-ba1a-474f-9d8e-9dc39b6568d6" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/814ea2ba-baab-4575-9a64-ae8847485a40" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/1106b4bc-e61b-466b-a7ae-12bffcfc2bac" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/6b6a6954-575e-480a-8e36-269841d01a7c" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/6f100518-a1e3-42ac-b7ba-c2dc1976d0d1" height="80%" width="80%" </>
 </p>
 <p>
 Log into domain pc and install Server Manager.
