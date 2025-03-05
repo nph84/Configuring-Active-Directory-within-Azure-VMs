@@ -133,7 +133,8 @@ The new user must be added to the domain admin security group to have admin priv
 
 
 <p>
-<img src="" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/e1dd0498-3425-42fc-a585-bae4b7e03ce6" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/64c21054-3a90-486b-b711-173a18b6c8ba" height="80%" width="80%" </>
 
 
 </p>
@@ -145,6 +146,15 @@ Now, we will log out and log back in as the newly created administrator user.
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/e1dd0498-3425-42fc-a585-bae4b7e03ce6" height="80%" width="80%" </>
+
+
+</p>
+<p>
+Now it's time to log back into the client PC as the original administrator.
+</p>
+<br />
 
 
 
