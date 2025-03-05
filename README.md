@@ -57,7 +57,8 @@ Log into domain pc and install Server Manager.
 <img src="https://github.com/user-attachments/assets/0d1a2605-7e16-40a5-af64-0d04d46e44c1" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/66454710-dbe8-41a7-9e51-ba8367357233" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/1a29518d-096b-47dd-a202-31977e4f4870" height="80%" width="80%" </>
-<img src="https://github.com/user-attachments/assets/c3bc9da8-a2cd-4549-b457-5c4defa34a46" height="80%" width="80%" </>
+
+  c
 </p>
 <p>
 With the Active Directory services installed, we will promote the server to a domain controller. The system will automatically restart upon installation.
@@ -67,7 +68,14 @@ With the Active Directory services installed, we will promote the server to a do
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/2fcd80ef-c0b3-49b1-b72e-d5252db7819c" height="80%" width="80%" </>
 
+</p>
+<p>
+Since the server is a domain controller now, when we log in, we have to specify the context to which we want to log in to it.
+</p>
+<br />
 
 
 
