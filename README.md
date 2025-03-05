@@ -132,7 +132,15 @@ The new user must be added to the domain admin security group to have admin priv
 
 
 
+<p>
+<img src="" height="80%" width="80%" </>
 
+
+</p>
+<p>
+Now, we will log out and log back in as the newly created administrator user.
+</p>
+<br />
 
 
 
