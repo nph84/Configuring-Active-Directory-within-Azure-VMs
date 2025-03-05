@@ -147,12 +147,13 @@ Now, we will log out and log back in as the newly created administrator user.
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/e1dd0498-3425-42fc-a585-bae4b7e03ce6" height="80%" width="80%" </>
-
+<img src="https://github.com/user-attachments/assets/2a7a102f-9991-426b-b1a1-2c548f27865d" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/66ccc72a-b7ec-4ce8-b9c2-d7c740337b9b" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/151709a2-84bc-4c35-82f1-787dbfd22b46" height="80%" width="80%" </>
 
 </p>
 <p>
-Now, it's time to log back into the client PC as the original administrator to join the client PC to the domain.
+Now, it's time to log back into the client PC as the original administrator to join the client PC to the domain. Since the DNS settings on the client's pc are set to the IP address of the domain computer, it's able to locate the domain controller.
 </p>
 <br />
 
