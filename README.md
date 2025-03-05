@@ -120,7 +120,7 @@ A new administrator user is being added
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/c8b8b70e-e773-4d17-8515-5797d063acee" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/7b94fe98-3709-4f09-b71c-b127d65050db" height="80%" width="80%" </>
 
 
 </p>
