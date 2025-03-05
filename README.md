@@ -79,6 +79,50 @@ Since the server is a domain controller now, when we log in, we have to specify 
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/bca49d84-30b2-4b3c-a5de-b40714fa1510" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/2fe52547-c491-4b70-953b-a280b37cdd07" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/c6c3c64d-061d-4239-9165-d003961d6707" height="80%" width="80%" </>
+
+</p>
+<p>
+Now it's time to create a domain admin user within the domain. *NOTE* It's very important that your organizational unit is named correctly so that any references that call back to this folder name won't fail!
+</p>
+<br />
+
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/7a283e7d-3ca1-4211-b713-27315774e0f2" height="80%" width="80%" </>
+
+
+</p>
+<p>
+2 new organizational units created
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/a19e5d6a-bf5b-4109-b794-1b44e3d6732a" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/58204c2f-195b-4e93-99ca-b1c2071e44fc" height="80%" width="80%" </>
+
+
+</p>
+<p>
+A new administrator user is being added
+</p>
+<br />
+
+
+
+
+
+
+
+
 
 
 
