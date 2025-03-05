@@ -152,7 +152,7 @@ Now, we will log out and log back in as the newly created administrator user.
 
 </p>
 <p>
-Now, it's time to log back into the client PC as the original administrator to join the client PC to the domain
+Now, it's time to log back into the client PC as the original administrator to join the client PC to the domain.
 </p>
 <br />
 
