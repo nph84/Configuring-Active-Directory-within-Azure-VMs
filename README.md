@@ -108,6 +108,7 @@ Now it's time to create a domain admin user within the domain. *NOTE* It's very 
 <p>
 <img src="https://github.com/user-attachments/assets/a19e5d6a-bf5b-4109-b794-1b44e3d6732a" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/58204c2f-195b-4e93-99ca-b1c2071e44fc" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/728cefea-83a4-43c4-a006-143154c1629c" height="80%" width="80%" </>
 
 
 </p>
@@ -118,6 +119,15 @@ A new administrator user is being added
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/c8b8b70e-e773-4d17-8515-5797d063acee" height="80%" width="80%" </>
+
+
+</p>
+<p>
+The new user must be added to the domain admin security group to have admin privileges. We do this by right clicking on the newly created user, clicking "Member of" tab, and then clicking the "Add" button and typing the correct domain name.
+</p>
+<br />
 
 
 
