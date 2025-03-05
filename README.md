@@ -57,9 +57,10 @@ Log into domain pc and install Server Manager.
 <img src="https://github.com/user-attachments/assets/0d1a2605-7e16-40a5-af64-0d04d46e44c1" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/66454710-dbe8-41a7-9e51-ba8367357233" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/1a29518d-096b-47dd-a202-31977e4f4870" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/c3bc9da8-a2cd-4549-b457-5c4defa34a46" height="80%" width="80%" </>
 </p>
 <p>
-With the Active Directory services installed, we will promote the server to a domain controller. 
+With the Active Directory services installed, we will promote the server to a domain controller. The system will automatically restart upon installation.
 </p>
 <br />
 
