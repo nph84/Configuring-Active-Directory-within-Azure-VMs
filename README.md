@@ -161,6 +161,16 @@ Now, it's time to log back into the client PC as the original administrator to j
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/1083fa4c-6034-4a54-a498-494723149ce6" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/7a9ed278-8d38-471f-ad5b-5a26051b8585" height="80%" width="80%" </>
+
+
+</p>
+<p>
+Next, let us verify that the client PC is a part of the Active Directory.
+</p>
+<br />
 
 
 
