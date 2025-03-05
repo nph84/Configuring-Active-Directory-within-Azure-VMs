@@ -36,6 +36,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://github.com/user-attachments/assets/1106b4bc-e61b-466b-a7ae-12bffcfc2bac" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/6b6a6954-575e-480a-8e36-269841d01a7c" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/6f100518-a1e3-42ac-b7ba-c2dc1976d0d1" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/ba6a0217-5841-489d-acd1-d59670439f98" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/4fadc61d-6997-4fca-8105-0e074d8cf081" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/9fc90433-b0ef-46de-860c-2a66a526ae95" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/f67eb13e-b973-4db3-a05e-66479394a905" height="80%" width="80%" </>
+<img src="https://github.com/user-attachments/assets/e75d096d-34c4-419b-9640-521b8583c172" height="80%" width="80%" </>
+
 </p>
 <p>
 Log into domain pc and install Server Manager.
