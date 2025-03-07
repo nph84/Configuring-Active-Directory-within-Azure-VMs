@@ -29,6 +29,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 
 <p>
+Log into domain pc and install Server Manager. <br /> <br />
 <img src="https://github.com/user-attachments/assets/08fe7bc0-00b4-45b6-a60b-b9dae65784af" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/6c0f940e-ba1a-474f-9d8e-9dc39b6568d6" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/814ea2ba-baab-4575-9a64-ae8847485a40" height="80%" width="80%" </>
@@ -41,14 +42,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://github.com/user-attachments/assets/f67eb13e-b973-4db3-a05e-66479394a905" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/e75d096d-34c4-419b-9640-521b8583c172" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/a19f6e8c-449a-4cfb-904f-ba1ade875bd4" height="80%" width="80%" </>
-
-</p>
-<p>
-Log into domain pc and install Server Manager.
-</p>
 <br />
 
+
 <p>
+With the Active Directory services installed, we will promote the server to a domain controller. The system will automatically restart upon installation. <br /> <br />
 <img src="https://github.com/user-attachments/assets/3270c83d-7dd9-4af4-8c4d-5863b3306e5f" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/d2b5a299-f9ce-4958-88e7-671c508ba639" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/bb967c5a-0353-473d-af3d-f89697526b22" height="80%" width="80%" </>
@@ -56,11 +54,6 @@ Log into domain pc and install Server Manager.
 <img src="https://github.com/user-attachments/assets/0d1a2605-7e16-40a5-af64-0d04d46e44c1" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/66454710-dbe8-41a7-9e51-ba8367357233" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/1a29518d-096b-47dd-a202-31977e4f4870" height="80%" width="80%" </>
-
-  c
-</p>
-<p>
-With the Active Directory services installed, we will promote the server to a domain controller. The system will automatically restart upon installation.
 </p>
 <br />
 
@@ -68,24 +61,18 @@ With the Active Directory services installed, we will promote the server to a do
 
 
 <p>
+Since the server is a domain controller now, when we log in, we have to specify the context to which we want to log in to it. <br /> <br />
 <img src="https://github.com/user-attachments/assets/2fcd80ef-c0b3-49b1-b72e-d5252db7819c" height="80%" width="80%" </>
-
-</p>
-<p>
-Since the server is a domain controller now, when we log in, we have to specify the context to which we want to log in to it.
 </p>
 <br />
 
 
 
 <p>
+Now it's time to create a domain admin user within the domain. *NOTE* It's very important that your organizational unit is named correctly so that any references that call back to this folder name won't fail! <br /> <br />
 <img src="https://github.com/user-attachments/assets/bca49d84-30b2-4b3c-a5de-b40714fa1510" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/2fe52547-c491-4b70-953b-a280b37cdd07" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/c6c3c64d-061d-4239-9165-d003961d6707" height="80%" width="80%" </>
-
-</p>
-<p>
-Now it's time to create a domain admin user within the domain. *NOTE* It's very important that your organizational unit is named correctly so that any references that call back to this folder name won't fail!
 </p>
 <br />
 
@@ -93,38 +80,26 @@ Now it's time to create a domain admin user within the domain. *NOTE* It's very 
 
 
 <p>
+2 new organizational units created <br /> <br />
 <img src="https://github.com/user-attachments/assets/7a283e7d-3ca1-4211-b713-27315774e0f2" height="80%" width="80%" </>
-
-
-</p>
-<p>
-2 new organizational units created
 </p>
 <br />
 
 
 
 <p>
+A new administrator user is being added <br /> <br />
 <img src="https://github.com/user-attachments/assets/a19e5d6a-bf5b-4109-b794-1b44e3d6732a" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/58204c2f-195b-4e93-99ca-b1c2071e44fc" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/728cefea-83a4-43c4-a006-143154c1629c" height="80%" width="80%" </>
-
-
-</p>
-<p>
-A new administrator user is being added
 </p>
 <br />
 
 
 
 <p>
+The new user must be added to the domain admin security group to have admin privileges. We do this by right clicking on the newly created user, clicking "Member of" tab, and then clicking the "Add" button and typing the correct domain name. <br /> <br />
 <img src="https://github.com/user-attachments/assets/7b94fe98-3709-4f09-b71c-b127d65050db" height="80%" width="80%" </>
-
-
-</p>
-<p>
-The new user must be added to the domain admin security group to have admin privileges. We do this by right clicking on the newly created user, clicking "Member of" tab, and then clicking the "Add" button and typing the correct domain name.
 </p>
 <br />
 
@@ -132,13 +107,9 @@ The new user must be added to the domain admin security group to have admin priv
 
 
 <p>
+Now, we will log out and log back in as the newly created administrator user. <br /> <br />
 <img src="https://github.com/user-attachments/assets/e1dd0498-3425-42fc-a585-bae4b7e03ce6" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/64c21054-3a90-486b-b711-173a18b6c8ba" height="80%" width="80%" </>
-
-
-</p>
-<p>
-Now, we will log out and log back in as the newly created administrator user.
 </p>
 <br />
 
@@ -146,13 +117,10 @@ Now, we will log out and log back in as the newly created administrator user.
 
 
 <p>
+Now, it's time to log back into the client PC as the original administrator to join the client PC to the domain. Since the DNS settings on the client's pc are set to the IP address of the domain computer, it's able to locate the domain controller. <br /> <br />
 <img src="https://github.com/user-attachments/assets/2a7a102f-9991-426b-b1a1-2c548f27865d" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/66ccc72a-b7ec-4ce8-b9c2-d7c740337b9b" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/151709a2-84bc-4c35-82f1-787dbfd22b46" height="80%" width="80%" </>
-
-</p>
-<p>
-Now, it's time to log back into the client PC as the original administrator to join the client PC to the domain. Since the DNS settings on the client's pc are set to the IP address of the domain computer, it's able to locate the domain controller.
 </p>
 <br />
 
@@ -161,13 +129,9 @@ Now, it's time to log back into the client PC as the original administrator to j
 
 
 <p>
+Next, let us verify that the client PC is a part of the Active Directory. <br /> <br />
 <img src="https://github.com/user-attachments/assets/1083fa4c-6034-4a54-a498-494723149ce6" height="80%" width="80%" </>
 <img src="https://github.com/user-attachments/assets/7a9ed278-8d38-471f-ad5b-5a26051b8585" height="80%" width="80%" </>
-
-
-</p>
-<p>
-Next, let us verify that the client PC is a part of the Active Directory.
 </p>
 <br />
 
